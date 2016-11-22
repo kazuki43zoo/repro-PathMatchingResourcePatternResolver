@@ -1,5 +1,7 @@
 # repro-PathMatchingResourcePatternResolver
 
+Related with https://jira.spring.io/browse/SPR-13685
+
 ## Clone this project
 
 ```

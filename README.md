@@ -1,6 +1,6 @@
 # repro-PathMatchingResourcePatternResolver
 
-Related with https://jira.spring.io/browse/SPR-13685 and https://jira.spring.io/browse/SPR-14934
+Related with https://jira.spring.io/browse/SPR-13685, https://jira.spring.io/browse/SPR-14934 and https://github.com/spring-projects/spring-boot/issues/7449
 
 ## Clone this project
 
